@@ -43,4 +43,4 @@
 | 2023  | 湖南大学齿轮箱故障数据集 | 包括在不同工作条件下的齿轮箱故障数据，适用于智能故障诊断研究。 | [HNUIDG-Fault-Diagnosis](https://github.com/bighan123/HNUIDG-Fault-Diagnosis-) |
 
 ### 优秀的工业数据集列表
-https://github.com/makinarocks/awesome-industrial-machine-datasets
+https://github.com/makinarocks/awesome-industrial-machine-datasets *[Github stars](https://img.shields.io/github/stars/makinarocks/awesome-industrial-machine-datasets.svg)

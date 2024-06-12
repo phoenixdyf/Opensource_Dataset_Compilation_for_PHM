@@ -5,7 +5,6 @@
 
 *This document shares an open-source PHM (Prognostics and Health Management) dataset donated by universities, research institutions, and companies worldwide. It covers various industrial scenarios including manufacturing, rail transportation, energy, and semiconductors, with data at the component, equipment, and production line levels. Users can develop intelligent analysis and modeling algorithms using this data. The dataset is categorized by business objectives such as fault diagnosis, health assessment, and lifespan prediction. When publishing papers using this dataset, please acknowledge the contributors and this platform. The platform and contributors assume no legal responsibility for the use of the dataset. For any infringement issues, please contact us for removal. The project will be continuously updated to compile more valuable data resources.*
 
-## Table-of-Contents
 ### 轴承故障诊断数据集列表
 
 | 年份  | 数据集名称 | 描述 | 链接 |

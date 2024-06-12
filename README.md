@@ -6,7 +6,7 @@
 *This document shares an open-source PHM (Prognostics and Health Management) dataset donated by universities, research institutions, and companies worldwide. It covers various industrial scenarios including manufacturing, rail transportation, energy, and semiconductors, with data at the component, equipment, and production line levels. Users can develop intelligent analysis and modeling algorithms using this data. The dataset is categorized by business objectives such as fault diagnosis, health assessment, and lifespan prediction. When publishing papers using this dataset, please acknowledge the contributors and this platform. The platform and contributors assume no legal responsibility for the use of the dataset. For any infringement issues, please contact us for removal. The project will be continuously updated to compile more valuable data resources.*
 
 ## Table-of-Contents
-# 轴承故障诊断数据集列表
+### 轴承故障诊断数据集列表
 
 | 年份  | 数据集名称 | 描述 | 链接 |
 |-------|------------|------|------|
@@ -14,13 +14,11 @@
 | 2000  | 机械故障预防技术学会 | 由美国机械故障预防技术学会提供，已提供轴承故障数据集以促进轴承分析的研究。 | [MFPT Dataset](https://www.mfpt.org/fault-data-sets/) |
 | 2006  | 辛辛那提大学IMS轴承退化数据 | 由美国辛辛那提大学李杰教授团队分享，用于评估轴承寿命退化的实验数据。 | [IMS Dataset](https://www.kaggle.com/datasets/wynxyzn/ims-bearing-data) |
 | 2012  | FEMTO-ST轴承退化数据集 | 由FEMTO-ST研究所建立的PHM IEEE 2012数据挑战期间使用的数据集。 | [FEMTO-ST Dataset](https://www.femto-st.fr/en/Research-departments/AS2M/Research-groups/PHM/IEEE-PHM-2012-Dataset) |
-| 2017  | 康涅狄格大学齿轮数据集 | 由美国康涅狄格大学唐炯教授团队分享的齿轮箱故障数据。 | [Connecticut Dataset](https://www.phmsociety.org/competition/phm/10/) |
 | 2018  | 帕德伯恩大学轴承数据集 | 由德国帕德博恩大学设计完成实验，包含多种故障类型和工况的轴承数据。 | [Paderborn Dataset](https://groups.uni-paderborn.de/kat/BearingDataCenter) |
-| 2018  | 西安交通大学 轴承数据集 | 由西安交通大学雷亚国课题组王彪博士整理的轴承寿命退化数据。 | [XJTU-SY Dataset](https://biaowang.tech/data/xjtu-sy-bearing-datasets) |
-| 2018  | 东南大学齿轮箱数据集 | 由东南大学完成的齿轮箱故障数据集，用于传动系统动力学模拟器的研究。 | [SEU Dataset](https://www.researchgate.net/publication/322617046_Southeast_University_Gearbox_Fault_Diagnosis_Datasets) |
-| 2021  | 新南威尔士大学全寿命故障数据 | 此数据集包含新南威尔士大学收集的全寿命轴承故障数据，用于评估轴承故障严重程度的发展方法。数据详细记录了四个全寿命实验中的加速度、编码器信号和负载信号。 | [UNSW Run-to-Failure Data](https://data.mendeley.com/datasets/3mdt9syf86/1) |
-| 2022  | 三轴承振动数据集 | 此数据集包含在不同负载条件下操作的感应电动机轴承的三轴振动数据。数据包括健康状态和内外圈故障的多种故障严重程度，采样率为10 kHz。 | [Triaxial Bearing Vibration Dataset](https://data.mendeley.com/datasets/fm6xzxnf36/2) |
-| 2022  | 全寿命故障数据集 | 此数据集包括从正常到故障的球轴承振动和温度数据。轴承在恒定速度下运行，直至温度超过85°C或振动值超过9 m/s²。数据以小时为间隔发布，每个文件包含振动和温度数据。 | [Run-to-Failure Dataset](https://data.mendeley.com/datasets/7jn4k7p8z9/1) |
+| 2018  | 西安交通大学轴承数据集 | 由西安交通大学雷亚国课题组王彪博士整理的轴承寿命退化数据。 | [XJTU-SY Dataset](https://biaowang.tech/data/xjtu-sy-bearing-datasets) |
+| 2021  | 新南威尔士大学轴承全寿命故障数据 | 此数据集包含新南威尔士大学收集的全寿命轴承故障数据，用于评估轴承故障严重程度的发展方法。数据详细记录了四个全寿命实验中的加速度、编码器信号和负载信号。 | [UNSW Run-to-Failure Data](https://data.mendeley.com/datasets/3mdt9syf86/1) |
+| 2022  | 三轴电机轴承振动数据集 | 此数据集包含在不同负载条件下操作的感应电动机轴承的三轴振动数据。数据包括健康状态和内外圈故障的多种故障严重程度，采样率为10 kHz。 | [Triaxial Bearing Vibration Dataset](https://data.mendeley.com/datasets/fm6xzxnf36/2) |
+| 2022  | 全寿命轴承故障数据集 | 此数据集包括从正常到故障的球轴承振动和温度数据。轴承在恒定速度下运行，直至温度超过85°C或振动值超过9 m/s²。数据以小时为间隔发布，每个文件包含振动和温度数据。 | [Run-to-Failure Dataset](https://data.mendeley.com/datasets/7jn4k7p8z9/1) |
 | 2023  | 振动和电机电流数据集 | 此数据集提供变速条件下轴承故障的振动和电流数据，转速范围为680 RPM到2460 RPM。数据集详细记录了内圈和外圈故障的振动信号和电流信号。 | [Vibration and Motor Current Dataset](https://data.mendeley.com/datasets/j8d8pfkvj2.7) |
 | 2023  | 回转支承数据集 | 此数据集包含回转支承在九种工况下的振动和声发射信号，详细标记了收集时间、故障类型、速度和负载等信息。数据包括健康状态、内圈故障、外圈故障和滚动体故障的信号。 | [JUST Slewing Bearing Datasets](https://data.mendeley.com/datasets/hwg8v5j8t6/1) |
 | 2023  | 华中科技大学轴承数据集 | 此数据集包含不同类型球轴承在各种工况下的振动数据，涵盖六种缺陷类型。数据集包括99个原始振动数据，记录了内圈裂纹、外圈裂纹、滚动体裂纹及其组合缺陷，在三种工作条件下的表现。数据采样率为51,200次/秒。 | [HUST Bearing Dataset](https://data.mendeley.com/datasets/cbv7jyx4p9/3) |
@@ -29,3 +27,18 @@
 | 2023  | 渥太华大学振动和声学数据集 | 此数据集提供了在恒定负载和速度条件下的振动和声学数据，适用于评估故障诊断技术的有效性。 | [University of Ottawa Vibration and Acoustic Data](https://data.mendeley.com/datasets/abcxyz1234/1) |
 | 2023  | SCA轴承数据集 | 此数据集包含纸浆厂收集的不同健康状态下轴承的振动测量数据。数据集描述了更换轴承前的不同故障状态。 | [SCA Bearing Dataset](https://data.mendeley.com/datasets/8sdjnfjk24/1) |
 
+### 轴承故障诊断数据集列表
+
+| 年份  | 数据集名称 | 描述 | 链接 |
+|-------|------------|------|------|
+| 2009  | 齿轮箱故障检测数据集 | 该数据集用于齿轮箱故障检测，包含在不同工作条件下收集的振动数据。 | [NASA Gearbox Fault Detection](https://c3.nasa.gov/dashlink/resources/330/) |
+| 2017  | 康涅狄格大学齿轮数据集 | 由美国康涅狄格大学唐炯教授团队分享的齿轮箱故障数据。 | [Connecticut Dataset](https://www.phmsociety.org/competition/phm/10/) |
+| 2018  | 东南大学齿轮箱数据集 | 由东南大学传动系统动力学模拟器收集的数据，包含两类工作条件下的齿轮和轴承数据。 | [Mechanical-datasets](https://github.com/cathysiyu/Mechanical-datasets) |
+| 2018  | 重庆大学齿轮箱数据集 | 重庆大学机械传动国家重点实验室的实验数据，包含不同负载条件下的行星齿轮箱振动信号，用于齿轮箱故障诊断研究。 | [CQU Gearbox Dataset](https://www.frontiersin.org/articles/10.3389/fenrg.2022.884702/full) |
+| 2021  | 齿轮磨损全寿命数据集 | 在新南威尔士大学的齿轮箱测试装置上进行的测试，记录了有润滑和无润滑条件下的振动信号，采样频率为100 kHz。 | [Gear Wear Run-to-Failure Dataset](https://data.mendeley.com/datasets/p2yryg9k6z/2) |
+| 2023  | 清华大学齿轮箱基准数据集 | 收集了在可变工况下运行的齿轮箱的振动数据，包含多种故障类型和故障严重程度。 | [MCC5-THU-Gearbox-Benchmark-Datasets](https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets) |
+| 2023  | 风力涡轮机齿轮箱故障诊断数据集 | 包含风力涡轮机齿轮箱的健康和故障数据，适用于齿轮箱故障诊断研究。 | [Gear-Box-Fault-Diagnosis-Data-Set](https://github.com/Gearboxdata/Gear-Box-Fault-Diagnosis-Data-Set) |
+| 2023  | 华中科技大学齿轮箱数据集 | 包含不同健康状态下齿轮箱的振动信号，涵盖30种不同工况。 | [HUSTgearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset) |
+| 2023  | 行星齿轮箱数据集 | 用于行星齿轮箱健康状态识别的深度学习研究，包含多个故障类型的数据。 | [WT-planetary-gearbox-dataset](https://github.com/Liudd-BJUT/WT-planetary-gearbox-dataset) |
+| 2023  | 增强型齿轮箱故障诊断数据集 | 使用SpectraQuest齿轮箱故障诊断模拟器记录的振动数据，涵盖不同负载条件下的数据。 | [Enhanced-Gearbox-Fault-Diagnosis](https://github.com/yriyazi/Enhanced-Gearbox-Fault-Diagnosis-with-Fusion-LSTM-CNN-Network-ISAV_2023) |
+| 2023  | 湖南大学齿轮箱故障数据集 | 包括在不同工作条件下的齿轮箱故障数据，适用于智能故障诊断研究。 | [HNUIDG-Fault-Diagnosis](https://github.com/bighan123/HNUIDG-Fault-Diagnosis-) |

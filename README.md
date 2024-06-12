@@ -22,7 +22,7 @@
 | 2023  | 振动和电机电流数据集 | 此数据集提供变速条件下轴承故障的振动和电流数据，转速范围为680 RPM到2460 RPM。数据集详细记录了内圈和外圈故障的振动信号和电流信号。 | [Vibration and Motor Current Dataset](https://data.mendeley.com/datasets/j8d8pfkvj2.7) |
 | 2023  | 回转支承数据集 | 此数据集包含回转支承在九种工况下的振动和声发射信号，详细标记了收集时间、故障类型、速度和负载等信息。数据包括健康状态、内圈故障、外圈故障和滚动体故障的信号。 | [JUST Slewing Bearing Datasets](https://data.mendeley.com/datasets/hwg8v5j8t6/1) |
 | 2023  | 华中科技大学轴承数据集 | 此数据集包含不同类型球轴承在各种工况下的振动数据，涵盖六种缺陷类型。数据集包括99个原始振动数据，记录了内圈裂纹、外圈裂纹、滚动体裂纹及其组合缺陷，在三种工作条件下的表现。数据采样率为51,200次/秒。 | [HUST Bearing Dataset](https://data.mendeley.com/datasets/cbv7jyx4p9/3) |
-| 2023  | 智能轴承故障诊断数据集 | 此数据集使用故障模拟器收集，涵盖了不同轴承故障类型的振动数据。实验设置包括电动机、变频器、皮带轮、轴和数据记录器，采集频率为17.85 kHz，转速为1900转/分钟。 | [Intelligent Bearing Fault Diagnosis](https://data.mendeley.com/datasets/gdr5x7m5c6/1) |
+| 2023  | 智能轴承故障诊断数据集 | 此数据集使用故障模拟器收集，涵盖了不同轴承故障类型的振动数据。实验设置包括电动机、变频器、皮带轮、轴和数据记录器，采集频率为17.85 kHz，转速为1900转/分钟。 | [Intelligent Bearing Fault Diagnosis](https://data.mendeley.com/datasets/gdr5x7m5c6/1) 
 | 2023  | 渥太华大学频谱数据集 | 此数据集包含通过频谱处理的振动和声学数据，用于故障诊断。提供了将原始数据转换为频谱图的Python代码。 | [University of Ottawa Spectrogram Data](https://data.mendeley.com/datasets/xyzzyv7y6h/1) |
 | 2023  | 渥太华大学振动和声学数据集 | 此数据集提供了在恒定负载和速度条件下的振动和声学数据，适用于评估故障诊断技术的有效性。 | [University of Ottawa Vibration and Acoustic Data](https://data.mendeley.com/datasets/abcxyz1234/1) |
 | 2023  | SCA轴承数据集 | 此数据集包含纸浆厂收集的不同健康状态下轴承的振动测量数据。数据集描述了更换轴承前的不同故障状态。 | [SCA Bearing Dataset](https://data.mendeley.com/datasets/8sdjnfjk24/1) |
@@ -34,7 +34,7 @@
 | 2009  | 齿轮箱故障检测数据集 | 该数据集用于齿轮箱故障检测，包含在不同工作条件下收集的振动数据。 | [NASA Gearbox Fault Detection](https://c3.nasa.gov/dashlink/resources/330/) |
 | 2017  | 康涅狄格大学齿轮数据集 | 由美国康涅狄格大学唐炯教授团队分享的齿轮箱故障数据。 | [Connecticut Dataset](https://www.phmsociety.org/competition/phm/10/) |
 | 2018  | 东南大学齿轮箱数据集 | 由东南大学传动系统动力学模拟器收集的数据，包含两类工作条件下的齿轮和轴承数据。 | [Mechanical-datasets](https://github.com/cathysiyu/Mechanical-datasets) |
-| 2021  | 齿轮磨损全寿命数据集 | 在新南威尔士大学的齿轮箱测试装置上进行的测试，记录了有润滑和无润滑条件下的振动信号，采样频率为100 kHz。 | [Gear Wear Run-to-Failure Dataset](https://data.mendeley.com/datasets/p2yryg9k6z/2) |
+| 2021  | 新南威尔士大学齿轮磨损全寿命数据集 | 在新南威尔士大学的齿轮箱测试装置上进行的测试，记录了有润滑和无润滑条件下的振动信号，采样频率为100 kHz。 | [Gear Wear Run-to-Failure Dataset](https://data.mendeley.com/datasets/p2yryg9k6z/2) |
 | 2023  | 清华大学齿轮箱基准数据集 | 收集了在可变工况下运行的齿轮箱的振动数据，包含多种故障类型和故障严重程度。 | [MCC5-THU-Gearbox-Benchmark-Datasets](https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets) |
 | 2023  | 风力涡轮机齿轮箱故障诊断数据集 | 包含风力涡轮机齿轮箱的健康和故障数据，适用于齿轮箱故障诊断研究。 | [Gear-Box-Fault-Diagnosis-Data-Set](https://github.com/Gearboxdata/Gear-Box-Fault-Diagnosis-Data-Set) |
 | 2023  | 华中科技大学齿轮箱数据集 | 包含不同健康状态下齿轮箱的振动信号，涵盖30种不同工况。 | [HUSTgearbox-dataset](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset) |
@@ -43,4 +43,31 @@
 | 2023  | 湖南大学齿轮箱故障数据集 | 包括在不同工作条件下的齿轮箱故障数据，适用于智能故障诊断研究。 | [HNUIDG-Fault-Diagnosis](https://github.com/bighan123/HNUIDG-Fault-Diagnosis-) |
 
 ### 优秀的工业数据集列表
-https://github.com/makinarocks/awesome-industrial-machine-datasets ![Github stars](https://img.shields.io/github/stars/makinarocks/awesome-industrial-machine-datasets.svg)
+-1 [Open-industrial-datasets](https://github.com/AndreaPi/Open-industrial-datasets) ![Github stars](https://img.shields.io/github/stars/AndreaPi/Open-industrial-datasets.svg)  
+**描述**: 提供了各种工业应用的开放数据集，按类别划分，便于使用。包括计算机视觉、油气设备、安全水处理和运输模式检测的数据集。  
+**Description**: A collection of open datasets for various industrial applications, categorized for ease of use. Includes datasets for computer vision, oil & gas equipment, secure water treatment, and transportation mode detection.
+
+-2 [Industrial ML Datasets](https://github.com/nicolasj92/industrial-ml-datasets) ![Github stars](https://img.shields.io/github/stars/nicolasj92/industrial-ml-datasets.svg)  
+**描述**: 一个整理的公开可用数据集列表，用于制造领域的机器学习研究。包括空气压力系统故障检测、海军推进系统维护和燃气轮机过程数据等数据集。  
+**Description**: A curated list of publicly available datasets for machine learning research in manufacturing. Includes datasets for air pressure system fault detection, naval propulsion plant maintenance, and gas turbine process data.
+
+-3 [Industrial Surface Inspection Datasets](https://github.com/donrax/industrial-surface-inspection-datasets) ![Github stars](https://img.shields.io/github/stars/donrax/industrial-surface-inspection-datasets.svg)  
+**描述**: 专注于不同工业表面上的缺陷检测和异常检测的数据集。著名的数据集包括MVTec异常检测数据集、Severstal钢缺陷检测和磁性瓷砖缺陷数据集。  
+**Description**: Focuses on datasets for defect detection and anomaly detection on various industrial surfaces. Notable datasets include MVTec Anomaly Detection Dataset, Severstal Steel Defect Detection, and Magnetic Tile Defect Datasets.
+
+-4 [FDDBenchmark](https://github.com/airi-industrial-ai/fddbenchmark) ![Github stars](https://img.shields.io/github/stars/airi-industrial-ai/fddbenchmark.svg)  
+**描述**: 提供故障检测和诊断方法的基准测试工具，包括来自田纳西东曼过程和轴承振动数据的各种工业数据集。  
+**Description**: Provides benchmarking tools for fault detection and diagnosis methods, including datasets from the Tennessee Eastman Process and bearing vibration data.
+
+-5 [Multi-mode Fault Diagnosis Datasets with TE Process](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process) ![Github stars](https://img.shields.io/github/stars/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process.svg)  
+**描述**: 包含用于多模式故障诊断的田纳西东曼（TE）过程模型的数据集，适用于比较研究和算法验证。  
+**Description**: Contains datasets for multi-mode fault diagnosis using the Tennessee Eastman (TE) process model, useful for comparative studies and algorithm validation.
+
+-6 [Machinery Fault Dataset](https://github.com/topics/machinery-fault-dataset) ![Github stars](https://img.shields.io/github/stars/topics/machinery-fault-dataset.svg)  
+**描述**: 专注于机械故障检测的数据集集合，包括电机故障检测和各种振动分析数据集。  
+**Description**: A collection of datasets focused on machinery fault detection, including projects on induction motor faults detection and various vibration analysis datasets.
+
+-7 [Awesome Industrial Datasets](https://github.com/i40a/awesome-industrial-datasets) ![Github stars](https://img.shields.io/github/stars/i40a/awesome-industrial-datasets.svg)  
+**描述**: 一个精选的公共工业数据集集合，包括发动机降解模拟、CNC铣床工具磨损和各种控制回路性能监控数据集。  
+**Description**: A curated collection of public industrial datasets including data for engine degradation simulation, CNC mill tool wear, and various control loop performance monitoring datasets.
+

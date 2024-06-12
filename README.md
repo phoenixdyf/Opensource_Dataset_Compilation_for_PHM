@@ -59,9 +59,9 @@
 **描述**: 提供故障检测和诊断方法的基准测试工具，包括来自田纳西东曼过程和轴承振动数据的各种工业数据集。  
 **Description**: Provides benchmarking tools for fault detection and diagnosis methods, including datasets from the Tennessee Eastman Process and bearing vibration data.
 
--5 [Multi-mode Fault Diagnosis Datasets with TE Process](https://github.com/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process) ![Github stars](https://img.shields.io/github/stars/Lichen0102/Multi-mode-Fault-Diagnosis-Datasets-with-TE-process.svg)  
-**描述**: 包含用于多模式故障诊断的田纳西东曼（TE）过程模型的数据集，适用于比较研究和算法验证。  
-**Description**: Contains datasets for multi-mode fault diagnosis using the Tennessee Eastman (TE) process model, useful for comparative studies and algorithm validation.
+-5 [Awesome Industrial Machine Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) ![Github stars](https://img.shields.io/github/stars/makinarocks/awesome-industrial-machine-datasets.svg)  
+**描述**: 一个汇集了工业领域内优秀公共数据集的列表，包括各类传感器数据、时间序列数据和模拟数据。该列表定期更新，涵盖了半导体、化学、机械、钢铁、电力等多个行业的数据集。  
+**Description**: A list of awesome public datasets found in the industry, including sensor data, time-series data, and simulation data. This list is periodically updated and covers datasets from semiconductor, chemical, mechanical, steel, power, and other industries.
 
 -6 [Machinery Fault Dataset](https://github.com/topics/machinery-fault-dataset) ![Github stars](https://img.shields.io/github/stars/topics/machinery-fault-dataset.svg)  
 **描述**: 专注于机械故障检测的数据集集合，包括电机故障检测和各种振动分析数据集。  

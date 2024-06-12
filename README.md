@@ -27,14 +27,13 @@
 | 2023  | 渥太华大学振动和声学数据集 | 此数据集提供了在恒定负载和速度条件下的振动和声学数据，适用于评估故障诊断技术的有效性。 | [University of Ottawa Vibration and Acoustic Data](https://data.mendeley.com/datasets/abcxyz1234/1) |
 | 2023  | SCA轴承数据集 | 此数据集包含纸浆厂收集的不同健康状态下轴承的振动测量数据。数据集描述了更换轴承前的不同故障状态。 | [SCA Bearing Dataset](https://data.mendeley.com/datasets/8sdjnfjk24/1) |
 
-### 轴承故障诊断数据集列表
+### 齿轮箱故障诊断数据集列表
 
 | 年份  | 数据集名称 | 描述 | 链接 |
 |-------|------------|------|------|
 | 2009  | 齿轮箱故障检测数据集 | 该数据集用于齿轮箱故障检测，包含在不同工作条件下收集的振动数据。 | [NASA Gearbox Fault Detection](https://c3.nasa.gov/dashlink/resources/330/) |
 | 2017  | 康涅狄格大学齿轮数据集 | 由美国康涅狄格大学唐炯教授团队分享的齿轮箱故障数据。 | [Connecticut Dataset](https://www.phmsociety.org/competition/phm/10/) |
 | 2018  | 东南大学齿轮箱数据集 | 由东南大学传动系统动力学模拟器收集的数据，包含两类工作条件下的齿轮和轴承数据。 | [Mechanical-datasets](https://github.com/cathysiyu/Mechanical-datasets) |
-| 2018  | 重庆大学齿轮箱数据集 | 重庆大学机械传动国家重点实验室的实验数据，包含不同负载条件下的行星齿轮箱振动信号，用于齿轮箱故障诊断研究。 | [CQU Gearbox Dataset](https://www.frontiersin.org/articles/10.3389/fenrg.2022.884702/full) |
 | 2021  | 齿轮磨损全寿命数据集 | 在新南威尔士大学的齿轮箱测试装置上进行的测试，记录了有润滑和无润滑条件下的振动信号，采样频率为100 kHz。 | [Gear Wear Run-to-Failure Dataset](https://data.mendeley.com/datasets/p2yryg9k6z/2) |
 | 2023  | 清华大学齿轮箱基准数据集 | 收集了在可变工况下运行的齿轮箱的振动数据，包含多种故障类型和故障严重程度。 | [MCC5-THU-Gearbox-Benchmark-Datasets](https://github.com/liuzy0708/MCC5-THU-Gearbox-Benchmark-Datasets) |
 | 2023  | 风力涡轮机齿轮箱故障诊断数据集 | 包含风力涡轮机齿轮箱的健康和故障数据，适用于齿轮箱故障诊断研究。 | [Gear-Box-Fault-Diagnosis-Data-Set](https://github.com/Gearboxdata/Gear-Box-Fault-Diagnosis-Data-Set) |
@@ -42,3 +41,6 @@
 | 2023  | 行星齿轮箱数据集 | 用于行星齿轮箱健康状态识别的深度学习研究，包含多个故障类型的数据。 | [WT-planetary-gearbox-dataset](https://github.com/Liudd-BJUT/WT-planetary-gearbox-dataset) |
 | 2023  | 增强型齿轮箱故障诊断数据集 | 使用SpectraQuest齿轮箱故障诊断模拟器记录的振动数据，涵盖不同负载条件下的数据。 | [Enhanced-Gearbox-Fault-Diagnosis](https://github.com/yriyazi/Enhanced-Gearbox-Fault-Diagnosis-with-Fusion-LSTM-CNN-Network-ISAV_2023) |
 | 2023  | 湖南大学齿轮箱故障数据集 | 包括在不同工作条件下的齿轮箱故障数据，适用于智能故障诊断研究。 | [HNUIDG-Fault-Diagnosis](https://github.com/bighan123/HNUIDG-Fault-Diagnosis-) |
+
+### 优秀的工业数据集列表
+https://github.com/makinarocks/awesome-industrial-machine-datasets

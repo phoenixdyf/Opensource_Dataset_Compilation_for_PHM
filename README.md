@@ -43,32 +43,33 @@
 | 2023  | 湖南大学齿轮箱故障数据集 | 包括在不同工作条件下的齿轮箱故障数据，适用于智能故障诊断研究。 | [HNUIDG-Fault-Diagnosis](https://github.com/bighan123/HNUIDG-Fault-Diagnosis-) |
 
 ### 优秀的工业数据集列表
-1. [Awesome Industrial Machine Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) ![Github stars](https://img.shields.io/github/stars/makinarocks/awesome-industrial-machine-datasets.svg)  
-   **描述**: 一个汇集了工业领域内优秀公共数据集的列表，包括各类传感器数据、时间序列数据和模拟数据。该列表定期更新，涵盖了半导体、化学、机械、钢铁、电力等多个行业的数据集。  
-   **Description**: A list of awesome public datasets found in the industry, including sensor data, time-series data, and simulation data. This list is periodically updated and covers datasets from semiconductor, chemical, mechanical, steel, power, and other industries&#8203;:citation[oaicite:7]{index=7}&#8203;.
-
-2. [Open-industrial-datasets](https://github.com/AndreaPi/Open-industrial-datasets) ![Github stars](https://img.shields.io/github/stars/AndreaPi/Open-industrial-datasets.svg)  
-   **描述**: 提供了各种工业应用的开放数据集，按类别划分，便于使用。包括计算机视觉、油气设备、安全水处理和运输模式检测的数据集。  
-   **Description**: A collection of open datasets for various industrial applications, categorized for ease of use. Includes datasets for computer vision, oil & gas equipment, secure water treatment, and transportation mode detection&#8203;:citation[oaicite:6]{index=6}&#8203;.
-
-3. [Awesome Industrial Datasets](https://github.com/i40a/awesome-industrial-datasets) ![Github stars](https://img.shields.io/github/stars/i40a/awesome-industrial-datasets.svg)  
-   **描述**: 一个精选的公共工业数据集集合，包括发动机降解模拟、CNC铣床工具磨损和各种控制回路性能监控数据集。  
-   **Description**: A curated collection of public industrial datasets including data for engine degradation simulation, CNC mill tool wear, and various control loop performance monitoring datasets&#8203;:citation[oaicite:5]{index=5}&#8203;&#8203;:citation[oaicite:4]{index=4}&#8203;.
-
-4. [Industrial ML Datasets](https://github.com/nicolasj92/industrial-ml-datasets) ![Github stars](https://img.shields.io/github/stars/nicolasj92/industrial-ml-datasets.svg)  
-   **描述**: 一个整理的公开可用数据集列表，用于制造领域的机器学习研究。包括空气压力系统故障检测、海军推进系统维护和燃气轮机过程数据等数据集。  
-   **Description**: A curated list of publicly available datasets for machine learning research in manufacturing. Includes datasets for air pressure system fault detection, naval propulsion plant maintenance, and gas turbine process data&#8203;:citation[oaicite:3]{index=3}&#8203;.
-
-5. [Industrial Surface Inspection Datasets](https://github.com/donrax/industrial-surface-inspection-datasets) ![Github stars](https://img.shields.io/github/stars/donrax/industrial-surface-inspection-datasets.svg)  
-   **描述**: 专注于不同工业表面上的缺陷检测和异常检测的数据集。著名的数据集包括MVTec异常检测数据集、Severstal钢缺陷检测和磁性瓷砖缺陷数据集。  
-   **Description**: Focuses on datasets for defect detection and anomaly detection on various industrial surfaces. Notable datasets include MVTec Anomaly Detection Dataset, Severstal Steel Defect Detection, and Magnetic Tile Defect Datasets&#8203;:citation[oaicite:2]{index=2}&#8203;.
-
-6. [FDDBenchmark](https://github.com/airi-industrial-ai/fddbenchmark) ![Github stars](https://img.shields.io/github/stars/airi-industrial-ai/fddbenchmark.svg)  
-   **描述**: 提供故障检测和诊断方法的基准测试工具，包括来自田纳西东曼过程和轴承振动数据的各种工业数据集。  
-   **Description**: Provides benchmarking tools for fault detection and diagnosis methods, including datasets from the Tennessee Eastman Process and bearing vibration data&#8203;:citation[oaicite:1]{index=1}&#8203;.
-
-7. [Rotating-machine-fault-data-set](https://github.com/hustcxl/Rotating-machine-fault-data-set) ![Github stars](https://img.shields.io/github/stars/hustcxl/Rotating-machine-fault-data-set.svg)  
+1. [Rotating-machine-fault-data-set](https://github.com/hustcxl/Rotating-machine-fault-data-set) ![Github stars](https://img.shields.io/github/stars/hustcxl/Rotating-machine-fault-data-set.svg)  
    **描述**: 开源旋转机械故障数据集的整理，包含来自多个研究机构和大学的轴承、齿轮、转子等机械部件的故障数据。适用于机械故障诊断的研究。  
-   **Description**: A collection of open rotating mechanical fault datasets, including bearing, gear, and rotor fault data from various research institutions and universities. Suitable for research in mechanical fault diagnosis&#8203;:citation[oaicite:0]{index=0}&#8203;.
+   **Description**: A collection of open rotating mechanical fault datasets, including bearing, gear, and rotor fault data from various research institutions and universities. Suitable for research in mechanical fault diagnosis&#8203;:citation[oaicite:7]{index=7}&#8203;.
+
+2. [Awesome Industrial Machine Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) ![Github stars](https://img.shields.io/github/stars/makinarocks/awesome-industrial-machine-datasets.svg)  
+   **描述**: 一个汇集了工业领域内优秀公共数据集的列表，包括各类传感器数据、时间序列数据和模拟数据。该列表定期更新，涵盖了半导体、化学、机械、钢铁、电力等多个行业的数据集。  
+   **Description**: A list of awesome public datasets found in the industry, including sensor data, time-series data, and simulation data. This list is periodically updated and covers datasets from semiconductor, chemical, mechanical, steel, power, and other industries&#8203;:citation[oaicite:6]{index=6}&#8203;.
+
+3. [Industrial ML Datasets](https://github.com/nicolasj92/industrial-ml-datasets) ![Github stars](https://img.shields.io/github/stars/nicolasj92/industrial-ml-datasets.svg)  
+   **描述**: 一个整理的公开可用数据集列表，用于制造领域的机器学习研究。包括空气压力系统故障检测、海军推进系统维护和燃气轮机过程数据等数据集。  
+   **Description**: A curated list of publicly available datasets for machine learning research in manufacturing. Includes datasets for air pressure system fault detection, naval propulsion plant maintenance, and gas turbine process data&#8203;:citation[oaicite:5]{index=5}&#8203;.
+
+4. [Industrial Surface Inspection Datasets](https://github.com/donrax/industrial-surface-inspection-datasets) ![Github stars](https://img.shields.io/github/stars/donrax/industrial-surface-inspection-datasets.svg)  
+   **描述**: 专注于不同工业表面上的缺陷检测和异常检测的数据集。著名的数据集包括MVTec异常检测数据集、Severstal钢缺陷检测和磁性瓷砖缺陷数据集。  
+   **Description**: Focuses on datasets for defect detection and anomaly detection on various industrial surfaces. Notable datasets include MVTec Anomaly Detection Dataset, Severstal Steel Defect Detection, and Magnetic Tile Defect Datasets&#8203;:citation[oaicite:4]{index=4}&#8203;.
+
+5. [Awesome Industrial Datasets](https://github.com/i40a/awesome-industrial-datasets) ![Github stars](https://img.shields.io/github/stars/i40a/awesome-industrial-datasets.svg)  
+   **描述**: 一个精选的公共工业数据集集合，包括发动机降解模拟、CNC铣床工具磨损和各种控制回路性能监控数据集。  
+   **Description**: A curated collection of public industrial datasets including data for engine degradation simulation, CNC mill tool wear, and various control loop performance monitoring datasets&#8203;:citation[oaicite:3]{index=3}&#8203;&#8203;:citation[oaicite:2]{index=2}&#8203;.
+
+6. [Open-industrial-datasets](https://github.com/AndreaPi/Open-industrial-datasets) ![Github stars](https://img.shields.io/github/stars/AndreaPi/Open-industrial-datasets.svg)  
+   **描述**: 提供了各种工业应用的开放数据集，按类别划分，便于使用。包括计算机视觉、油气设备、安全水处理和运输模式检测的数据集。  
+   **Description**: A collection of open datasets for various industrial applications, categorized for ease of use. Includes datasets for computer vision, oil & gas equipment, secure water treatment, and transportation mode detection&#8203;:citation[oaicite:1]{index=1}&#8203;.
+
+7. [FDDBenchmark](https://github.com/airi-industrial-ai/fddbenchmark) ![Github stars](https://img.shields.io/github/stars/airi-industrial-ai/fddbenchmark.svg)  
+   **描述**: 提供故障检测和诊断方法的基准测试工具，包括来自田纳西东曼过程和轴承振动数据的各种工业数据集。  
+   **Description**: Provides benchmarking tools for fault detection and diagnosis methods, including datasets from the Tennessee Eastman Process and bearing vibration data&#8203;:citation[oaicite:0]{index=0}&#8203;.
+{index=0}&#8203;.
 
 
